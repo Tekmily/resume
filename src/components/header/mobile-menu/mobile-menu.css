@@ -1,14 +1,16 @@
 .header .mobile-bar {
-    background: rgba(12,12,12,0.75);
-    color: #FFF;
+    background: rgba(255, 157, 0, 0.708);
+    color: #000000;
     height: 60px;
     right: -59px;
     position: absolute;
     width: 60px;
     z-index: 3;
+    border-radius: 0rem 5rem 5rem 0rem;
 }
 
 .header .hamburger-menu {
+    
     position: absolute;
     top: 0;
     left: 15px;
@@ -17,6 +19,7 @@
     width: 30px;
     height: 55px;
     cursor: pointer;
+   
 }
 
 .header .bar,.header .bar:after,.header .bar:before {
