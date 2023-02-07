@@ -5,6 +5,7 @@ import {
   TfiYoutube,
   TfiLinkedin,
   TfiGithub,
+  TfiStackOverflow,
 } from "react-icons/tfi";
 import "./social-icons.css";
 
@@ -14,28 +15,28 @@ const SocialIcons = () => {
     <div className="social-icons">
       <ul>
         <li>
-          <a href="#">
-            <TfiFacebook />
+          <a href="https://www.linkedin.com/in/yusuf-tekmil-developer">
+            <TfiLinkedin />
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/Tekmily">
+            <TfiGithub />
+          </a>
+        </li>
+        <li>
+          <a href="https://stackoverflow.com/users/19129969/yusuf-tekmil">
+            <TfiStackOverflow />
           </a>
         </li>
         <li>
           <a href="#">
-            <TfiTwitterAlt />
+            <TfiTwitterAlt/>
           </a>
         </li>
         <li>
           <a href="#">
             <TfiYoutube />
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <TfiLinkedin />
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <TfiGithub />
           </a>
         </li>
       </ul>

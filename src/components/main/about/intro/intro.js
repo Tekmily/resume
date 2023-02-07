@@ -13,16 +13,16 @@ const Intro = () => {
 
       <ul className="info">
         <li>
-          <strong>Birthday:</strong> August 14, 1982
+          <strong>Birthday:</strong> March 13,1994
         </li>
         <li>
-          <strong>Location:</strong> Central Main Rd, Australia
+          <strong>Location:</strong> Kocaeli, TURKEY
         </li>
         <li>
-          <strong>Email:</strong> contact@yourmail.com
+          <strong>Email:</strong> yusuftekmil.yt@outlook.com.tr <br />    yusuftekmil.yt@gmail.com
         </li>
         <li>
-          <strong>Phone:</strong> +111 1234-1234
+          <strong>Phone:</strong> +90 546 197 76 38
         </li>
       </ul>
     </div>

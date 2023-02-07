@@ -4,7 +4,7 @@ import "./avatar.css";
 const Avatar = () => {
   return (
     <div className="avatar">
-      <img src="/assets/images/my-pic.jpg" alt="avatar" />
+      <img src="/assets/images/YUSUF_TEKMİL-600x600_px.jpg" alt="avatar" />
     </div>
   );
 };
