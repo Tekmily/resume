@@ -6,7 +6,7 @@
 
 body {
   color: #1a1a1a;
-  background-color: #5352d4;
+  background-color: #f99c2a;
   font-family: 'Poppins', sans-serif;
   overflow-x: hidden;
 }
@@ -30,7 +30,7 @@ li {
 
 .btn-default {
   color: #FFF;
-  background-color: #5655da;
+  background-color: #f99c2a;
   border: 0;
   border-radius: 0;
   font-size: 12px;
@@ -44,7 +44,7 @@ border-radius: 3px;
 
 .btn-default:hover {
   color: #FFF;
-  background-color: #5655da;
+  background-color: #f99c2a;
   border: 0;
 }
 
