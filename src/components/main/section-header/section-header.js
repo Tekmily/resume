@@ -1,4 +1,6 @@
 import React from "react";
+import {TfiDownload,
+} from "react-icons/tfi";
 import "./section-header.css";
 
 const SectionHeader = ({ title, isButtonVisible }) => {
@@ -16,7 +18,7 @@ const SectionHeader = ({ title, isButtonVisible }) => {
           <i className="fa fa-download" aria-hidden="true">
             {" "}
           </i>{" "}
-          Download Resume
+          <TfiDownload /> Download Resume
         </a>
       )}
     </div>
